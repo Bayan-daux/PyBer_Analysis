@@ -1,6 +1,6 @@
-**PyBer Analysis** 
+# **PyBer Analysis** 
 
-**Overview**  
+## **Overview**  
 
 This project was built on a mock scenario were a data analyst at PyBer, a
 ride-sharing app company valued at \$2.3 billion, has been assigned to analyze
