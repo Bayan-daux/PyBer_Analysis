@@ -30,7 +30,7 @@ The following list of steps and deliverables:
     each city type, including urban, suburban, and rural.
 
     ![Chart, scatter chart, bubble chart Description automatically
-    generated](Analysis_png/fig1.png)
+    generated](Analysis_png/Fig1.png)
 
 -   Determine the mean, median, and mode for the following:
 
@@ -46,17 +46,17 @@ The following list of steps and deliverables:
     -   The number of rides for each city type.
 
         ![Chart, box and whisker chart Description automatically
-        generated](Analysis_png/fig2.png)
+        generated](Analysis_png/Fig2.png)
 
     -   The fares for each city type.
 
         ![Chart, box and whisker chart Description automatically
-        generated](Analysis_png/fig3.png)
+        generated](Analysis_png/Fig3.png)
 
     -   The number of drivers for each city type.
 
         ![Chart, box and whisker chart Description automatically
-        generated](Analysis_png/fig4.png)
+        generated](Analysis_png/Fig4.png)
 
 -   Create a pie chart that visualizes each of the following data for each city
     type:
@@ -64,17 +64,17 @@ The following list of steps and deliverables:
     -   The percent of total fares.
 
         ![Chart, pie chart Description automatically
-        generated](Analysis_png/fig5.png)
+        generated](Analysis_png/Fig5.png)
 
     -   The percent of total rides.
 
         ![Chart, pie chart Description automatically
-        generated](Analysis_png/fig6.png)
+        generated](Analysis_png/Fig6.png)
 
     -   The percent of total drivers.
 
         ![Chart, pie chart Description automatically
-        generated](Analysis_png/fig7.png)
+        generated](Analysis_png/Fig7.png)
 
 ### **Part Two: PyBer_Challenge**
 
