@@ -1,6 +1,6 @@
-#**PyBer Analysis** 
+**PyBer Analysis** 
 
-##**Overview**  
+**Overview**  
 
 This project was built on a mock scenario were a data analyst at PyBer, a
 ride-sharing app company valued at \$2.3 billion, has been assigned to analyze
@@ -17,9 +17,9 @@ data. Such as, charts that showcase the relationship between the type of city
 and the number of drivers and riders, as well as the percentage of total fares,
 rides, and drivers by type of city.
 
-##**The process and outcomes for this project**  
+**The process and outcomes for this project**  
 
-##**Part one: PyBer**
+**Part one: PyBer**
 
 The following list of steps and deliverables:
 
@@ -76,7 +76,7 @@ The following list of steps and deliverables:
         ![Chart, pie chart Description automatically
         generated](Analysis_png/fig7.png)
 
-##**Part Two: PyBer_Challenge**
+**Part Two: PyBer_Challenge**
 
 -   Create a summary DataFrame of the ride-sharing data by city type.
 
@@ -87,12 +87,12 @@ generated](Analysis_png/summary.PNG)
 
 -   Deliverable 02: A multiple-line chart of total fares for each city type
 
-**  
+  
 **![Chart, line chart Description automatically
 generated](Analysis_png/PyBer_fare_summary.png)
 
-##**Results  
-##** Looking at the summary DataFrame and the multiple-line chart above, we can
+**Results  
+ Looking at the summary DataFrame and the multiple-line chart above, we can
 see there is a difference in ride-sharing data among the different city types.  
 Urban places seems to have more rides, followed by suburban areas. The rural
 areas seem to have least number or rides. Regarding fares, Urban areas rides
@@ -101,7 +101,7 @@ all types seems to be consistent during the analyzed time frame. Also, number of
 rides correlate with car ownership in all the three types. Also, Urban lifestyle
 and more need for short rides.
 
-##**Summary**  
+**Summary**  
 Based on the results from last two deliverables, here are few recommendations to
 the   
 CEO of PyBer:
