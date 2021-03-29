@@ -78,7 +78,7 @@ The following list of steps and deliverables:
 
 ### **Part Two: PyBer_Challenge**
 
--   Create a summary DataFrame of the ride-sharing data by city type.
+ Create a summary DataFrame and multi-line chart of the ride-sharing data by city type.
 
 -   Deliverable 01: A ride-sharing summary DataFrame by city type
 
@@ -88,10 +88,10 @@ generated](Analysis_png/summary.PNG)
 -   Deliverable 02: A multiple-line chart of total fares for each city type
 
   
-**![Chart, line chart Description automatically
+![Chart, line chart Description automatically
 generated](Analysis_png/PyBer_fare_summary.png)
 
-#### **Results  
+#### **Results** 
  Looking at the summary DataFrame and the multiple-line chart above, we can
 see there is a difference in ride-sharing data among the different city types.  
 Urban places seems to have more rides, followed by suburban areas. The rural
