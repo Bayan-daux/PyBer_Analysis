@@ -17,7 +17,7 @@ data. Such as, charts that showcase the relationship between the type of city
 and the number of drivers and riders, as well as the percentage of total fares,
 rides, and drivers by type of city.
 
-## **Project process and outcomes **  
+## **Project process and outcomes**  
 
 ### **Part one: PyBer**
 
